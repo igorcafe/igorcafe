@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       6836D299-9215-4128-82CA-513366717FB7
+:END:
+#+title: Cosine Similarity
+
+\begin{equation}
+\text{Cosine Similarity} =
+\frac{\sum_{i=1}^{n} A_i B_i}
+{\sqrt{\sum_{i=1}^{n} A_i^2} \sqrt{\sum_{i=1}^{n} B_i^2}}
+\end{equation}
+
+Cosine similarity is a technique that can be used to compare [[id:32FB6AAE-BC5F-4E7D-8340-8C51FB8C4BAE][text similarity]].
+It works better if you are using [[id:98A4A9DA-8E94-4CC0-BE45-1BE50E1180DB][Text Embeddings]], as if you just compare
+words, "He eat" and "She drinks" will have no similarity, although they share
+similar semantics.
+
+Given the phrases:
+1. "love you"
+2. "you love"
+3. "love love"
+4. "you"
+
+We can represent them as:
+| love | you | angle |
+|------+-----+-------|
+|    1 |   1 |    45 |
+|    1 |   1 |    45 |
+|    2 |   0 |     0 |
+|    0 |   1 |    90 |
+
+If we compare first and second phrases, the angle between them is 0, and cos 0
+is 1, so the cosine similarity is 1.
+
+If we compare first and third phrases, the angle between them is 45, and cos 45
+is 0.71.
+
+If we compare second and forth phrases, the angle between them is also 45, so
+0.71.
+
+If we compare third and forth, their angle is 90, and cos 90 is 0.
+Make sense since there is no similar word between the phrases.
