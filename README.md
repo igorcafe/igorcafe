@@ -23,6 +23,7 @@ See [LinkedIn](https://www.linkedin.com/in/igoracmelo) for full list.
 ## Personal Projects
 
 Please note that these projects are written in my free time, with no blind vibe-coding whatsoever, because they are fun and I learn a ton by doing it this way.
+For that reason, development is slow-paced and some projects aren't "complete".
 
 ### [mayi](https://github.com/igorcafe/mayi)
 
@@ -40,23 +41,26 @@ An easy to use Bash sandbox utility based on Bubblewrap with isolated filesystem
 
 A small Lisp-like interpreter written in Go with a CLI and embeddable API.
 
-
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/c7db0212-13d9-45f4-8ea5-164b078bdcff" />
 
 ### [xx](https://github.com/igorcafe/xx)
 
 A colorful tool like `xxd` written in Go.
 Each byte has a unique color.
 
-
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/9b58ec7d-7784-4f36-8619-b879a5aaf08b" />
 
 ### [retrocli](https://github.com/igorcafe/retrocli)
 
 An emulator frontend written in C that runs on the terminal.
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/7ce07ad4-06d4-4bfb-8da7-9d1ee603a22a" />
 
 ### [anyflix](https://github.com/igorcafe/anyflix)
 
-Public-domain BitTorrent streaming project "like Netflix", written in Go.
+A TV content manager inspired by Stremio, written in Go and Alpine.
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/5eeab56e-65a7-4a2c-b4c7-362d0e54f160" />
 
 
 ## Links
