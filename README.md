@@ -2,6 +2,8 @@
 
 Software Engineer with 5+ years of experience building full-stack systems, AI products, payment platforms, developer tools and cross-platform applications.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=igorcafe&mode=weekly)](https://git.io/streak-stats)
+
 ## Professional Experience
 
 See [LinkedIn](https://www.linkedin.com/in/igoracmelo) for full details.
