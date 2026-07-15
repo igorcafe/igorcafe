@@ -43,7 +43,7 @@ A small Lisp-like interpreter written in Go with a CLI and embeddable API.
 ### [xx](https://github.com/igorcafe/xx)
 
 A colorful tool like `xxd` written in Go.
-Each byte has a unique color.
+Each byte has a unique color, making it easier to spot patterns in the binary.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/9b58ec7d-7784-4f36-8619-b879a5aaf08b" />
 
