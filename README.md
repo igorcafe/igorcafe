@@ -63,7 +63,7 @@ A TV content manager inspired by Stremio, written in Go and Alpine.
 
 ### [ch8](https://github.com/igorcafe/ch8)
 
-A CHIP8 virtual machine that renders to terminal.
+A CHIP8 virtual machine that renders to terminal, also written in Go.
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/accf9e04-1747-4450-9bac-1d88465ac7fa" />
 
